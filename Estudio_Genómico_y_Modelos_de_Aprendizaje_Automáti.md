@@ -76,7 +76,7 @@ La **Proteína Verde Fluorescente (GFP)**, aislada originalmente de la medusa *A
 -Para procesar estos datos en entornos de ML (Python/R), se recomiendan las siguientes librerías:
 
 
--1 **Biopython:** Manipulación de secuencias* y acceso a NCBI. *(GenBank/PDB.) [CookBook](https://biopython.org/wiki/Documentation)                                                          [FrameWork](https://github.com/biopython/biopython)
+-1 **Biopython:** Manipulación secuencias* y acceso a NCBI. *(GenBank/PDB.) [CookBook](https://biopython.org/wiki/Documentation)                                                          [FrameWork](https://github.com/biopython/biopython)
 
 
 .
@@ -95,7 +95,7 @@ La **Proteína Verde Fluorescente (GFP)**, aislada originalmente de la medusa *A
 
 
 
--Estos proyectos, igual que Biopython, forman parte del ecosistema Bio* para evitar duplicación de código en biología computacional.
+-Estos proyectos, igual que ***Biopython***, forman parte del ecosistema Bio* para evitar duplicación de código en biología computacional.
 
 
 
@@ -121,7 +121,7 @@ La **Proteína Verde Fluorescente (GFP)**, aislada originalmente de la medusa *A
 
 
 
--Estos paquetes complementan a Seurat y Scanpy, especialmente cuando te interesan trayectorias celulares, pseudotiempo o integración con otros datos ómicos.
+-Estos paquetes complementan a ***Seurat*** y ***Scanpy***, especialmente cuando te interesan trayectorias celulares, pseudotiempo o integración con otros datos ómicos.
 
 
 
@@ -136,7 +136,7 @@ La **Proteína Verde Fluorescente (GFP)**, aislada originalmente de la medusa *A
 .
 
 3.2-Para deep learning en química y biología
-**RDKit** [(quimioinformática; muy usado junto con deep learning)](https://www.rdkit.org)
+**RDKit** [(quimioinformática; usos con deep learning)](https://www.rdkit.org)
 
 
 
