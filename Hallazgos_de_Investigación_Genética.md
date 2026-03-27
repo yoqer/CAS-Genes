@@ -6,7 +6,7 @@
 - **UCSC Genome Browser**: Acceso directo a bases de datos MySQL públicas. [UCSC MySQL](https://genome.ucsc.edu/goldenpath/help/mysql.html)
 
 ## Modelos de IA para Proteínas y Genómica
-- **AlphaFold 3**: Código de inferencia disponible en GitHub para uso académico. Predice estructuras de proteínas, ADN, ARN y ligandos. [AlphaFold 3 GitHub](https://github.com/google-deepmind/alphafold3)
+- **AlphaFold 3**: Código de inferencia disponible en GitHub para uso académico. Predice estructuras de proteínas, ADN, ARN y ligandolos. [AlphaFold 3 GitHub](https://github.com/google-deepmind/alphafold3)
 - **ESMFold**: Modelo de lenguaje de proteínas de Meta (FAIR) para predicción rápida de estructuras a partir de secuencias individuales. [ESM GitHub](https://github.com/facebookresearch/esm)
 - **AlphaGenome**: Modelo unificado de DeepMind para predecir el efecto de variantes en la función del ADN. [AlphaGenome Nature](https://www.nature.com/articles/s41586-025-10014-0)
 - **DeepFold**: Diversas implementaciones para plegamiento, incluyendo versiones optimizadas de AlphaFold.
