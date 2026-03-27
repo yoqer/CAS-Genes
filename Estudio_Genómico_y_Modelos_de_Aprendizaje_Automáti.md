@@ -47,9 +47,10 @@ La tecnología CRISPR ha democratizado la edición del genoma. Este apartado det
 | **Jennifer Doudna** | UC Berkeley (EE. UU.) | Co-descubridora de CRISPR-Cas9. Fundadora del [Innovative Genomics Institute (IGI)](https://innovativegenomics.org/), que ofrece cursos y recursos educativos como [CRISPRpedia](https://innovativegenomics.org/crisprpedia/). |
 | **Emmanuelle Charpentier** | Max Planck (Alemania) | Co-descubridora de CRISPR-Cas9. Formada en la **Universidad Pierre y Marie Curie** e **Instituto Pasteur** en Francia. Lidera la Unidad Max Planck para la Ciencia de Patógenos. |
 
-### Herramientas y Kits de Edición
+### [Herramientas y Kits de Edición](https://github.com/yoqer/CAS-Genes/blob/main/Directorio_de_Plataformas_DIYBio_y_Laboratorios_Co.md)
 Para la experimentación práctica, existen kits que permiten realizar ediciones genéticas básicas en entornos educativos o de laboratorio DIY.
-- **The ODIN (Thor Kit):** Josiah Zayner, desde California, ha popularizado kits de edición genética para bacterias y levaduras. El **Thor Kit** es un ejemplo de estas herramientas de "biohacking" educativo. [Enlace a The ODIN](https://www.the-odin.com/).
+- Josiah Zayner, desde California, ha popularizado kits de edición genética para bacterias y levaduras.
+   El **Thor Kit** es un ejemplo de estas herramientas de "biohacking" educativo. [The ODIN](https://www.the-odin.com/).
 
 ---
 
