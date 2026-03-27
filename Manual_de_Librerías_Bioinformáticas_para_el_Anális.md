@@ -94,4 +94,4 @@ Para genes como el de la medusa, podemos usar **AlphaFold** o **ESMFold** para p
 ---
 *Este manual sirve de base para automatizar el flujo de trabajo desde la secuencia bruta hasta la comprensión funcional de un gen.*
 
-**Puede encontrar otros "Large Lenguage Models" Y proyectos de su Aplicación Real.](https://github.com/yoqer/CAS/blob/main/estudio_genomica_ia.pdf)**
+**[Investigue otros "Large Lenguage Models" y proyectos de su Aplicación Real.](https://github.com/yoqer/CAS/blob/main/estudio_genomica_ia.pdf)**
