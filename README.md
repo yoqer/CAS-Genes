@@ -99,8 +99,10 @@ ________________________________________________________________________________
 
 
    - **Journal of Visualized Experiments (JoVE):** Publica protocolos en video que muestran cómo realizar experimentos de CRISPR-Cas9. Puedes buscar "CRISPR" en su sitio web para encontrar tutoriales específicos.
-   - 
-   - **Nature Protocols:** Ofrece protocolos detallados revisados por pares. Busca artículos relacionados con CRISPR-Cas9 para obtener guías paso a paso.
+
+
+    
+   - **Nature Protocols:** Ofrece protocolos detallados revisados por pares. Buscar artículos relacionados con CRISPR-Cas9 para obtener guías paso a paso.
 
 
 
