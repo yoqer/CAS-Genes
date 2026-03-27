@@ -22,7 +22,7 @@ El acceso a datos genómicos curados es fundamental para el entrenamiento de mod
 La revolución del **Deep Learning** ha permitido predecir estructuras moleculares con una precisión sin precedentes. Estos modelos son esenciales para entender el plegamiento de proteínas y el efecto de las variantes genéticas.
 
 ### 1. AlphaFold (Google DeepMind)
-**AlphaFold 3** es la versión más reciente, capaz de predecir estructuras de proteínas, ADN, ARN y ligandos con alta fidelidad.
+**AlphaFold 3** es la versión más reciente, capaz de predecir estructuras de proteínas, ADN, ARN y ligandolos con alta fidelidad.
 - **Código:** [GitHub - AlphaFold 3](https://github.com/google-deepmind/alphafold3)
 - **Datos:** [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/)
 
