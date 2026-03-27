@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
                       - 
 
-# GUIA EXPERIMENTACIÖN BASICA:
+# GUIA EXPERIMENTACIÓN BASICA:
 
 
 
