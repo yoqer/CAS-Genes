@@ -111,12 +111,11 @@ BioPerl [(Perl, bioinformática clásica):](https://bioperl.org)
 
 
 2.3-Para análisis de scRNA‑seq y ómicas de célula única
-Bioconductor paquetes single‑cell [(scran, scater, SingleCellExperiment):](https://bioconductor.org/packages/release/BiocViews.html#_SingleCell)
+Bioconductor paquetes single‑cell [(scran, scater, SingleCellExperiment)](https://bioconductor.org/packages/release/BiocViews.html#_SingleCell)
 
 
 
-2.4-**Monocle 3** [(trayectorias y pseudotiempo, R):](
-https://cole-trapnell-lab.github.io/monocle3)
+2.4-**Monocle 3** [(trayectorias y pseudotiempo, R)](https://cole-trapnell-lab.github.io/monocle3)
 
 
 
@@ -135,18 +134,15 @@ https://cole-trapnell-lab.github.io/monocle3)
 .
 
 3.2-Para deep learning en química y biología
-**RDKit** [(quimioinformática; muy usado junto con deep learning)]:
-(https://www.rdkit.org)
+**RDKit** [(quimioinformática; muy usado junto con deep learning)](https://www.rdkit.org)
 
 
 
-3.3-**OpenMM** [(dinámica molecular con soporte GPU):]
-(http://openmm.org)
+3.3-**OpenMM** [(dinámica molecular con soporte GPU)](http://openmm.org)
 
 
 
-3.4-**TorchDrug** [(drug discovery con PyTorch):]
-(https://torchdrug.ai)
+3.4-**TorchDrug** [(drug discovery con PyTorch)](https://torchdrug.ai)
 
 
 
