@@ -108,6 +108,6 @@ ________________________________________________________________________________
 
 
 
-[Otros investigadores con formación y experiencia en la materia.]
+[Otros investigadores con formación y experiencia en la materia.](https://github.com/yoqer/CAS-Genes/blob/main/Directorio_de_Plataformas_DIYBio_y_Laboratorios_Co.md)
 
 
