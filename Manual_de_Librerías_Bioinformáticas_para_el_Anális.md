@@ -92,6 +92,6 @@ Para genes como el de la medusa, podemos usar **AlphaFold** o **ESMFold** para p
 4. **Modelado:** Utilizar **DeepChem** o **AlphaFold** para predecir el impacto de las mutaciones en la estructura y función (ej. cambio de color en GFP).
 
 ---
-*Este manual sirve como base para automatizar el flujo de trabajo desde la secuencia bruta hasta la comprensión funcional de un gen.*
+*Este manual sirve de base para automatizar el flujo de trabajo desde la secuencia bruta hasta la comprensión funcional de un gen.*
 
-      **[Puedes encontrar otros "Large Lenguage Models" Y proyectos de su Aplicación Real.](https://github.com/yoqer/CAS/blob/main/estudio_genomica_ia.pdf)
+**Puede encontrar otros "Large Lenguage Models" Y proyectos de su Aplicación Real.](https://github.com/yoqer/CAS/blob/main/estudio_genomica_ia.pdf)**
