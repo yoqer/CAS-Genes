@@ -25,7 +25,7 @@ CRISPR-Cas9 es un sistema de edición genética que permite a los científicos a
 
 **3. Diseño de la Guía de ARN (gRNA):**
 - Diseña una secuencia de ARN guía (gRNA) complementaria a la secuencia objetivo.
-- Utiliza herramientas en línea como CRISPR Design, [CHOPCHOP](https://chopchop.cbu.uib.no/). o [CRISPOR](https://crispor.tefor.net/) para ayudar en el diseño y evaluar la especificidad del gRNA.
+- Utiliza herramientas en línea como [CRISPR](https://crispr.dbcls.jp) Design, [CHOPCHOP](https://chopchop.cbu.uib.no/). o [CRISPOR](https://crispor.tefor.net/) para ayudar en el diseño y evaluar la especificidad del gRNA.
 
   
 
