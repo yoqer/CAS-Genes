@@ -38,7 +38,7 @@ CRISPR-Cas9 es un sistema de edición genética que permite a los científicos a
 - Prepara las células para la transfección o transducción, siguiendo los protocolos estándar de cultivo celular.
 
 **6. Entrega del Sistema CRISPR:**
-- Introduce el vector CRISPR en las células utilizando métodos como la transfección liposómica, electroporación o virus.
+- Introduce el vector CRISPR en las células utilizando métodos como la transfección liposómica, electroporación o virus. *(A veces un choque térmico puede ser suficiente; 20º>40º<20º...; para lograrlo.)
 - Optimiza las condiciones de entrega para maximizar la eficiencia y minimizar la toxicidad.
 
 **7. Selección y Validación:**
@@ -57,5 +57,38 @@ CRISPR-Cas9 es un sistema de edición genética que permite a los científicos a
 - Documenta todos los pasos del experimento y los resultados obtenidos.
 - Reporta los hallazgos siguiendo las normas de publicación científica.
 
-Recuerda que este es un resumen muy básico y que la edición genética con CRISPR-Cas9 es una técnica compleja que requiere un conocimiento profundo de biología molecular y genética. Además, es importante estar al tanto de las regulaciones locales e internacionales que rigen la investigación con CRISPR.
+Recuerde que este es un resumen básico y que la edición genética con CRISPR-Cas9 es una técnica compleja que requiere un conocimiento profundo de biología molecular y genética. 
+Además, es importante estar al tanto de las regulaciones locales e internacionales que rigen la investigación con CRISPR.
+
+
+Si deseas continuar aprendiendo y conocer los riesgos y normas basicas de Seguridad deberas sacarte una Carrera y Realizar dos años de Practicas, antes de que puedas empezar a hervir el agua.  Te recomendamos que esperes a una Gripe para ver el experimento. 
+Pero si aun asi deseas continuar mejor qu]e comiences con los siguientes pasos.  
+Recuerda:
+Cientifico precavido, Humanidad a Salvo.
+
+
+_____________________________________________________________________________________________________________________________________
+
+
+
+**11. Instituciones Académicas y Organizaciones:**
+   - **Addgene:** Proporciona protocolos y recursos educativos sobre CRISPR-Cas9. Visita su sitio web y busca en su sección de herramientas y protocolos [addgene.org](https://www.addgene.org/).
+   - **Broad Institute's CRISPR page:** Ofrece recursos y protocolos desarrollados por uno de los principales centros de investigación en CRISPR [broadinstitute.org](https://www.broadinstitute.org/what-broad/areas-focus/project-spotlight/crispr).
+
+
+
+
+**12. Foros y Comunidades Científicas:**
+   - **ResearchGate:** Una red social para científicos donde puedes hacer preguntas y obtener respuestas de expertos en el campo.
+   - **BioRxiv:** Un sitio de preimpresión donde puedes encontrar artículos sobre CRISPR-Cas9 antes de su publicación formal.
+     O libros como: "CRISPR/Cas9 Methods and Protocols", pueden ser útiles.
+
+
+
+_____________________________________________________________________________________________________________________________________
+
+
+
+
+
 
