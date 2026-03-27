@@ -77,21 +77,23 @@ Para procesar estos datos en entornos de ML (Python/R), se recomiendan las sigui
 -1 **Biopython:** Manipulación de secuencias* y acceso a NCBI. *(Leer GenBank/PDB.) [CookBook](https://biopython.org/wiki/Documentation)                                                          [FrameWork](https://github.com/biopython/biopython)
 
 
-    ---
+.
 
 Otras plataformas/bibliotecas similares
 
-Para bioinformática y secuencias
-BioPerl [(Perl, bioinformática clásica):]
-(https://bioperl.org)
 
-Bioconductor [(ecosistema R para genómica, RNA‑seq, etc.):]
-(https://www.bioconductor.org)
+1.2-Para bioinformática y secuencias
+BioPerl [(Perl, bioinformática clásica):](https://bioperl.org)
 
-scikit‑bio [(Python para biología computacional):]
-(http://scikit-bio.org)
 
-Estos proyectos, igual que Biopython, forman parte del ecosistema Bio* para evitar duplicación de código en biología computacional.
+1.3-Bioconductor [(ecosistema R para genómica, RNA‑seq, etc.):](https://www.bioconductor.org)
+
+
+1.4-scikit‑bio [(Python para biología computacional):](http://scikit-bio.org)
+
+
+
+-Estos proyectos, igual que Biopython, forman parte del ecosistema Bio* para evitar duplicación de código en biología computacional.
 
 
 
@@ -105,7 +107,7 @@ Estos proyectos, igual que Biopython, forman parte del ecosistema Bio* para evit
 2.2-Seurat:  control de calidad, interpretación, con funciones como: FindVariableFeatures, ScaleData; y análisis de PCA/UMAP.
 
 
-    ---
+.
 
 
 2.3-Para análisis de scRNA‑seq y ómicas de célula única
@@ -116,7 +118,9 @@ Bioconductor paquetes single‑cell [(scran, scater, SingleCellExperiment):](htt
 2.4-**Monocle 3** [(trayectorias y pseudotiempo, R):](
 https://cole-trapnell-lab.github.io/monocle3)
 
-Estos paquetes complementan a Seurat y Scanpy, especialmente cuando te interesan trayectorias celulares, pseudotiempo o integración con otros datos ómicos.
+
+
+-Estos paquetes complementan a Seurat y Scanpy, especialmente cuando te interesan trayectorias celulares, pseudotiempo o integración con otros datos ómicos.
 
 
 
@@ -128,7 +132,7 @@ Estos paquetes complementan a Seurat y Scanpy, especialmente cuando te interesan
    Libreria para problemas de ciencias de la vida, como predicción de solubilidad, afinidad de unión fármaco‑proteína, propiedades de materiales y análisis de estructuras proteicas.
 
 
-        ---
+.
 
 3.2-Para deep learning en química y biología
 **RDKit** [(quimioinformática; muy usado junto con deep learning)]:
@@ -145,9 +149,13 @@ Estos paquetes complementan a Seurat y Scanpy, especialmente cuando te interesan
 (https://torchdrug.ai)
 
 
-Estas herramientas se usan a menudo junto con DeepChem o frameworks generales (PyTorch, TensorFlow) para modelado molecular, predicción de propiedades y diseño de fármacos.
+
+-Estas herramientas se usan a menudo junto con DeepChem o frameworks generales (PyTorch, TensorFlow) para modelado molecular, predicción de propiedades y diseño de fármacos.
 
 
+    -
+
+    
    
 
 
