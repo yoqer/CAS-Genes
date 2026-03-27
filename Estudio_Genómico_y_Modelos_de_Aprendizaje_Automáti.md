@@ -74,16 +74,72 @@ La **Proteína Verde Fluorescente (GFP)**, aislada originalmente de la medusa *A
 
 Para procesar estos datos en entornos de ML (Python/R), se recomiendan las siguientes librerías:
 
-- **Biopython:** Manipulación de secuencias* y acceso a NCBI. *(Leer GenBank/PDB.) [CookBook](https://biopython.org/wiki/Documentation)                                                          [FrameWork](https://github.com/biopython/biopython)
+-1 **Biopython:** Manipulación de secuencias* y acceso a NCBI. *(Leer GenBank/PDB.) [CookBook](https://biopython.org/wiki/Documentation)                                                          [FrameWork](https://github.com/biopython/biopython)
+
+
+
+Otras plataformas/bibliotecas similares
+Para bioinformática y secuencias
+BioPerl (Perl, bioinformática clásica):
+https://bioperl.org
+
+Bioconductor (ecosistema R para genómica, RNA‑seq, etc.):
+https://www.bioconductor.org
+
+scikit‑bio (Python para biología computacional):
+http://scikit-bio.org
+
+Estos proyectos, igual que Biopython, forman parte del ecosistema Bio* para evitar duplicación de código en biología computacional.
+
+
+
+
+
  
-- **[Scanpy](https://scanpy.readthedocs.io/en/stable): Phyton**  Escalable/ **[Seurat](https://cran.r-project.org/package=Seurat):  R** [(Tutorial)](https://comunidadbioinfo.github.io/cdsb2021_scRNAseq/introducción-a-seurat.html) :  Analizar datos de secuenciación de célula única (scRNA-seq).
+-2 **[Scanpy](https://scanpy.readthedocs.io/en/stable): Phyton**  Escalable/ **[Seurat](https://cran.r-project.org/package=Seurat):  R** [(Tutorial)](https://comunidadbioinfo.github.io/cdsb2021_scRNAseq/introducción-a-seurat.html) :  Analizar datos de secuenciación de célula única (scRNA-seq).
   
- Scanpy: De expresión génica de célula única, con módulos de preprocesado, visualización y clustering en formato AnnData.
+ 2.1-Scanpy: De expresión génica de célula única, con módulos de preprocesado, visualización y clustering en formato AnnData.
 
-Seurat:  control de calidad, interpretación, con funciones como: FindVariableFeatures, ScaleData; y análisis de PCA/UMAP.
+2.2-Seurat:  control de calidad, interpretación, con funciones como: FindVariableFeatures, ScaleData; y análisis de PCA/UMAP.
 
-- **DeepChem:** Framework para deep learning en química y biología. [Cookbook](https://deepchem.readthedocs.io)  [FrameWork](https://github.com/deepchem/deepchem)
-  Libreria para problemas de ciencias de la vida, como predicción de solubilidad, afinidad de unión fármaco‑proteína, propiedades de materiales y análisis de estructuras proteicas.
+
+
+
+Para análisis de scRNA‑seq y ómicas de célula única
+Bioconductor paquetes single‑cell (scran, scater, SingleCellExperiment):
+https://bioconductor.org/packages/release/BiocViews.html#_SingleCell
+
+Monocle 3 (trayectorias y pseudotiempo, R):
+https://cole-trapnell-lab.github.io/monocle3/
+
+Estos paquetes complementan a Seurat y Scanpy, especialmente cuando te interesan trayectorias celulares, pseudotiempo o integración con otros datos ómicos.
+
+
+
+
+
+
+-3 **DeepChem:** Framework para deep learning en química y biología. [Cookbook](https://deepchem.readthedocs.io)  [FrameWork](https://github.com/deepchem/deepchem)
+
+   Libreria para problemas de ciencias de la vida, como predicción de solubilidad, afinidad de unión fármaco‑proteína, propiedades de materiales y análisis de estructuras proteicas.
+
+
+
+
+Para deep learning en química y biología
+RDKit (quimioinformática; muy usado junto con deep learning):
+https://www.rdkit.org
+
+OpenMM (dinámica molecular con soporte GPU):
+http://openmm.org
+
+TorchDrug (drug discovery con PyTorch):
+https://torchdrug.ai
+
+Estas herramientas se usan a menudo junto con DeepChem o frameworks generales (PyTorch, TensorFlow) para modelado molecular, predicción de propiedades y diseño de fármacos.
+
+
+   
 
 
 ---
