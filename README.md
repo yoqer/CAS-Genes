@@ -38,7 +38,7 @@ CRISPR-Cas9 es un sistema de edición genética que permite a los científicos a
 - Prepara las células para la transfección o transducción, siguiendo los protocolos estándar de cultivo celular.
 
 **6. Entrega del Sistema CRISPR:**
-- Introduce el vector CRISPR en las células utilizando métodos como la transfección liposómica, electroporación o virus. *(A veces un choque térmico puede ser suficiente; 20º>40º<20º...; para lograrlo.)
+- Introduce el vector CRISPR en las células utilizando métodos como la transfección liposómica, electroporación o virus. *(A veces un choque térmico puede ser suficiente; 20º<40º>20º...24h; para lograrlo.)
 - Optimiza las condiciones de entrega para maximizar la eficiencia y minimizar la toxicidad.
 
 **7. Selección y Validación:**
@@ -62,7 +62,7 @@ Además, es importante estar al tanto de las regulaciones locales e internaciona
 
 
 Si deseas continuar aprendiendo y conocer los riesgos y normas basicas de Seguridad deberas sacarte una Carrera y Realizar dos años de Practicas, antes de que puedas empezar a hervir el agua.  Te recomendamos que esperes a una Gripe para ver el experimento. 
-Pero si aun asi deseas continuar mejor qu]e comiences con los siguientes pasos.  
+Pero si aun despues deseas continuar mejor que comiences con los siguientes pasos.  
 Recuerda:
 Cientifico precavido, Humanidad a Salvo.
 
