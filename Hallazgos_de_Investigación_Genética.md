@@ -14,7 +14,7 @@
 ## CRISPR y Edición Genética
 - **Jennifer Doudna & Emmanuelle Charpentier**: Ganadoras del Nobel 2020 por CRISPR-Cas9.
 - **Innovative Genomics Institute (IGI)**: Recursos educativos y formación liderados por Doudna. [IGI](https://innovativegenomics.org/)
-- **The ODIN (Josiah Zayner)**: Kits de edición genética DIY. El "Thor kit" parece referirse a sus kits de ingeniería genética para humanos/bacterias. [The ODIN](https://www.the-odin.com/)
+
 - **Cas9**: Proteína de corte estándar.
 - **Akkermansia muciniphila**: Bacteria intestinal con sistemas CRISPR-Cas identificados (ej. Amuc_2006).
 
@@ -22,3 +22,7 @@
 - **GFP (Green Fluorescent Protein)**: Gen de la medusa *Aequorea victoria*. Secuencia y mapas disponibles en UniProt (P42212) y SnapGene.
 - **Vectores Virales**: AAV, Lentivirus y Adenovirus usados para entrega de genes.
 - **Permeabilización**: Métodos químicos y físicos para facilitar la entrada de CRISPR en las células.
+
+
+
+# [Guia](http://github.com/yoqer/CAS-Genes)
