@@ -74,8 +74,8 @@ La **Proteína Verde Fluorescente (GFP)**, aislada originalmente de la medusa *A
 
 Para procesar estos datos en entornos de ML (Python/R), se recomiendan las siguientes librerías:
 - **Biopython:** Manipulación de secuencias* y acceso a NCBI. *(Leer GenBank/PDB.) [CookBook](https://biopython.org/wiki/Documentation)                                                          [FrameWork](https://github.com/biopython/biopython)
-- **[Scanpy](https://scanpy.readthedocs.io/en/stable) / [Seurat](https://cran.r-project.org/package=Seurat)** [(Tutorial)](https://comunidadbioinfo.github.io/cdsb2021_scRNAseq/introducción-a-seurat.html) :  Análisis de datos de secuenciación de célula única (scRNA-seq).
-- **DeepChem:** Framework para deep learning en química y biología.
+- **[Scanpy](https://scanpy.readthedocs.io/en/stable) Phyton / [Seurat](https://cran.r-project.org/package=Seurat) R** [(Tutorial)](https://comunidadbioinfo.github.io/cdsb2021_scRNAseq/introducción-a-seurat.html) :  Análisis de datos de secuenciación de célula única (scRNA-seq).
+- **DeepChem:** Framework para deep learning en química y biología. [Cookbook](https://deepchem.readthedocs.io)  [FrameWork](https://github.com/deepchem/deepchem)
 
 ---
 **[Hallazgos Geneticos](https://github.com/yoqer/CAS-Genes/blob/main/Hallazgos_de_Investigaci%C3%B3n_Gen%C3%A9tica.md)**
