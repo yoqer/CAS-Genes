@@ -78,4 +78,4 @@ Para procesar estos datos en entornos de ML (Python/R), se recomiendan las sigui
 - **DeepChem:** Framework para deep learning en química y biología.
 
 ---
-*Este documento ha sido preparado para su integración en repositorios de GitHub orientados a la bioinformática y la IA.*
+**[Hallazgos Geneticos](https://github.com/yoqer/CAS-Genes/blob/main/Hallazgos_de_Investigaci%C3%B3n_Gen%C3%A9tica.md)**
