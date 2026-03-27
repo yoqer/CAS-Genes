@@ -79,17 +79,17 @@ Para procesar estos datos en entornos de ML (Python/R), se recomiendan las sigui
 
 .
 
-Otras plataformas/bibliotecas similares
+  -Otras plataformas/bibliotecas similares
 
 
 1.2-Para bioinformática y secuencias
-BioPerl [(Perl, bioinformática clásica):](https://bioperl.org)
+**BioPerl** [(Perl, bioinformática clásica):](https://bioperl.org)
 
 
-1.3-Bioconductor [(ecosistema R para genómica, RNA‑seq, etc.):](https://www.bioconductor.org)
+1.3-**Bioconductor** [(ecosistema R para genómica, RNA‑seq, etc.):](https://www.bioconductor.org)
 
 
-1.4-scikit‑bio [(Python para biología computacional):](http://scikit-bio.org)
+1.4-**scikit‑bio** [(Python para biología computacional):](http://scikit-bio.org)
 
 
 
@@ -102,16 +102,16 @@ BioPerl [(Perl, bioinformática clásica):](https://bioperl.org)
  
 -2 **[Scanpy](https://scanpy.readthedocs.io/en/stable): Phyton**  Escalable/ **[Seurat](https://cran.r-project.org/package=Seurat):  R** [(Tutorial)](https://comunidadbioinfo.github.io/cdsb2021_scRNAseq/introducción-a-seurat.html) :  Analizar datos de secuenciación de célula única (scRNA-seq).
   
- 2.1-Scanpy: De expresión génica de célula única, con módulos de preprocesado, visualización y clustering en formato AnnData.
+ 2.1-**Scanpy**: De expresión génica de célula única, con módulos de preprocesado, visualización y clustering en formato AnnData.
 
-2.2-Seurat:  control de calidad, interpretación, con funciones como: FindVariableFeatures, ScaleData; y análisis de PCA/UMAP.
+2.2-**Seurat**:  control de calidad, interpretación, con funciones como: FindVariableFeatures, ScaleData; y análisis de PCA/UMAP.
 
 
 .
 
 
 2.3-Para análisis de scRNA‑seq y ómicas de célula única
-Bioconductor paquetes single‑cell [(scran, scater, SingleCellExperiment)](https://bioconductor.org/packages/release/BiocViews.html#_SingleCell)
+**Bioconductor** paquetes single‑cell [(scran, scater, SingleCellExperiment)](https://bioconductor.org/packages/release/BiocViews.html#_SingleCell)
 
 
 
