@@ -50,7 +50,7 @@ La tecnología CRISPR ha democratizado la edición del genoma. Este apartado det
 ### [Herramientas y Kits de Edición](https://github.com/yoqer/CAS-Genes/blob/main/Directorio_de_Plataformas_DIYBio_y_Laboratorios_Co.md)
 Para la experimentación práctica, existen kits que permiten realizar ediciones genéticas básicas en entornos educativos o de laboratorio DIY.
 - Josiah Zayner, desde California, ha popularizado kits de edición genética para bacterias y levaduras.
-   El **Thor Kit** es un ejemplo de estas herramientas de "biohacking" educativo. [The ODIN](https://www.the-odin.com/).
+   -Ejemplo de herramientas de "biohacking" educativo. **Thor Kit** [The ODIN](https://www.the-odin.com/).
 
 ---
 
@@ -148,7 +148,7 @@ La **Proteína Verde Fluorescente (GFP)**, aislada originalmente de la medusa *A
 
 
 
--Estas herramientas se usan a menudo junto con DeepChem o frameworks generales (PyTorch, TensorFlow) para modelado molecular, predicción de propiedades y diseño de fármacos.
+-Estas herramientas se usan a menudo junto con ***DeepChem*** o frameworks generales (**PyTorch, TensorFlow**) para modelado molecular, predicción de propiedades y diseño de fármacos.
 
 
     -
