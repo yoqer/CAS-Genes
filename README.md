@@ -82,7 +82,7 @@ ________________________________________________________________________________
    - **[ResearchGate](https://www.researchgate.net/publication/337207651_Genome_Editing_with_CRISPR-Cas_An_Overview):** Una red social para científicos donde puedes hacer preguntas y obtener respuestas de expertos en el campo.
    - **[BioRxiv](https://www.biorxiv.org/content/10.1101/2025.05.26.656144v1):** Un sitio de preimpresión donde puedes encontrar artículos sobre CRISPR-Cas9 antes de su publicación formal.
      
-     Libros como: "CRISPR/Cas9 Methods and Protocols", pueden ser útiles.
+     Libros como: ["CRISPR/Cas9 Methods and Protocols"](https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=CRISPR%2FCas9+Methods+and+Protocols&btnG), pueden ser útiles.
 
 
 
