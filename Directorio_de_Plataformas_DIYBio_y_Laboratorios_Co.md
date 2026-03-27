@@ -27,4 +27,10 @@ Estos centros ofrecen acceso a equipamiento profesional, clases y una comunidad 
 > "La biotecnología DIY no solo trata de hacer ciencia fuera de las instituciones, sino de repensar quién tiene el derecho a innovar con la materia viva."
 
 ---
-*Nota: Antes de realizar experimentos de edición genética en casa, consulte siempre las regulaciones locales sobre bioseguridad y organismos genéticamente modificados (OGM).*
+*Nota: Antes de realizar experimentos de edición genética en casa, consulte siempre las regulaciones locales **sobre bioseguridad** y organismos genéticamente modificados (OGM).*
+
+
+______________________________________________________________________________________________________________________________________
+
+
+[Librerias y Proyectos Genomicos](https://github.com/yoqer/CAS-Genes/blob/main/Manual_de_Librer%C3%ADas_Bioinform%C3%A1ticas_para_el_An%C3%A1lis.md)
