@@ -81,14 +81,33 @@ ________________________________________________________________________________
 **12. Foros y Comunidades Científicas:**
    - **ResearchGate:** Una red social para científicos donde puedes hacer preguntas y obtener respuestas de expertos en el campo.
    - **BioRxiv:** Un sitio de preimpresión donde puedes encontrar artículos sobre CRISPR-Cas9 antes de su publicación formal.
-     O libros como: "CRISPR/Cas9 Methods and Protocols", pueden ser útiles.
+     
+     Libros como: "CRISPR/Cas9 Methods and Protocols", pueden ser útiles.
 
 
 
+     
+
+
+_____________________________________________________________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________
 
 
 
 
+**13. Protocolos de Revistas Científicas:**
+
+
+   - **Journal of Visualized Experiments (JoVE):** Publica protocolos en video que muestran cómo realizar experimentos de CRISPR-Cas9. Puedes buscar "CRISPR" en su sitio web para encontrar tutoriales específicos.
+   - 
+   - **Nature Protocols:** Ofrece protocolos detallados revisados por pares. Busca artículos relacionados con CRISPR-Cas9 para obtener guías paso a paso.
+
+
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+[Otros investigadores con formación y experiencia en la materia.]
 
 
