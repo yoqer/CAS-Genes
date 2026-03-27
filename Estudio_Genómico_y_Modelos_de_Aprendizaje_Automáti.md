@@ -72,9 +72,11 @@ La **Proteína Verde Fluorescente (GFP)**, aislada originalmente de la medusa *A
 
 ## Guía de Datos para Machine Learning
 
-Para procesar estos datos en entornos de ML (Python/R), se recomiendan las siguientes librerías:
 
--1 **Biopython:** Manipulación de secuencias* y acceso a NCBI. *(Leer GenBank/PDB.) [CookBook](https://biopython.org/wiki/Documentation)                                                          [FrameWork](https://github.com/biopython/biopython)
+-Para procesar estos datos en entornos de ML (Python/R), se recomiendan las siguientes librerías:
+
+
+-1 **Biopython:** Manipulación de secuencias* y acceso a NCBI. *(GenBank/PDB.) [CookBook](https://biopython.org/wiki/Documentation)                                                          [FrameWork](https://github.com/biopython/biopython)
 
 
 .
